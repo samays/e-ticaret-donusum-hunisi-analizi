@@ -2,8 +2,8 @@
 
 GA4 (Google Analytics 4) BigQuery genel örnek veri kümesi kullanılarak hazırlanmış, uçtan uca bir e-ticaret dönüşüm hunisi analizi ve interaktif gösterge tablosu.
 
-**🔗 Canlı Gösterge Tablosu:** [Looker Studio linkini buraya ekleyin]
-**🔗 BigQuery Veri Kaynağı:** [BigQuery tablo linkini buraya ekleyin]
+**🔗 Canlı Gösterge Tablosu:** [https://datastudio.google.com/reporting/322eda5e-1c03-45ac-94ca-1d81537fa87b](https://datastudio.google.com/reporting/322eda5e-1c03-45ac-94ca-1d81537fa87b)
+**🔗 BigQuery Veri Kaynağı:** [funnel_sessions tablosu](https://console.cloud.google.com/bigquery?project=edtech-analytics-494713&ws=!1m6!1m5!4m3!1sedtech-analytics-494713!2secommerce_project!3sfunnel_sessions!23sTREE_NODE_SELECTION)
 
 ---
 
